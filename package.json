@@ -1,0 +1,23 @@
+{
+  "name": "extra-graph",
+  "version": "0.0.1",
+  "description": "A graph is a set of vertices and a set of interconnecting edges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/extra-graph.git"
+  },
+  "keywords": [
+    "extra",
+    "graph"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodef/extra-graph/issues"
+  },
+  "homepage": "https://github.com/nodef/extra-graph#readme"
+}
