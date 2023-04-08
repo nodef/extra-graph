@@ -1,6 +1,6 @@
 {
   "name": "extra-graph",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A graph is a set of vertices and a set of interconnecting edges.",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nodef/extra-graph/issues"
   },
-  "homepage": "https://github.com/nodef/extra-graph#readme"
+  "homepage": "https://github.com/nodef/extra-graph#readme",
+  "devDependencies": {
+    "extra-array": "^3.1.27"
+  }
 }
